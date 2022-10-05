@@ -13,8 +13,9 @@ In this poject, we take Philips Bulb to describe how to integrate Forseti into i
 https://github.com/Sobuno/ZKBoo
 
 * Decentralized Ledger: Hyperledger Fabric (v2.2 LTS) and its dependency
-
-You need to deploy the ledger by yourselves to run this project.
-
 https://hyperledger-fabric.readthedocs.io/en/release-2.2/
+
+    You need to deploy the ledger by yourselves to run this project.
+
+
 
