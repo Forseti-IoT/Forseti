@@ -9,7 +9,7 @@ A cross-platform delegation solution for IoT leasing.
 In this poject, we take Philips Bulb to describe how to integrate Forseti into its origional platform design.
 
 ## Dependency
-* Zero-knowledge Proof:ZKBoo and its dependency
+* Zero-knowledge Proof: ZKBoo and its dependency
 https://github.com/Sobuno/ZKBoo
 
 * Decentralized Ledger: Hyperledger Fabric (v2.2 LTS) and its dependency
